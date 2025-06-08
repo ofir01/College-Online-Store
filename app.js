@@ -1,1 +1,3 @@
-alert("Welcome to College Store.");
+import chalk from 'chalk';
+
+console.log(chalk.blue('Hello world!'));
